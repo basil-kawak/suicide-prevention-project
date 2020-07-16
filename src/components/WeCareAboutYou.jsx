@@ -1,18 +1,12 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
-const myelement = (
-  <table>
-    <tr>
-      <th>Name</th>
-    </tr>
-    <tr>
-      <td>John</td>
-    </tr>
-    <tr>
-      <td>Elsa</td>
-    </tr>
-  </table>
-);
-
-ReactDOM.render(myelement, document.getElementById('root'));
+const WeCareAboutYou = () =>  {
+return(
+    <div className="weCare">
+      <h1>We Care About You</h1>
+      <h3></h3>
+    </div>
+  )
+}
+export default WeCareAboutYou;
