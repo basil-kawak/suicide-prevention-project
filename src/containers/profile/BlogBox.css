@@ -1,0 +1,11 @@
+.profileBoxInfo {
+  color: rgb(102, 101, 101);
+}
+
+.profileBoxInfo h4 {
+  color: #1c7cdb;
+}
+
+a:hover {
+  text-decoration: none !important;
+}

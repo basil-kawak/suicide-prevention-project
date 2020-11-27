@@ -1,0 +1,28 @@
+.profileContainer {
+  border-radius: 1rem;
+  position: absolute;
+  top: 80%;
+  width: 70%;
+  background-color: white;
+}
+
+.extraComponents {
+  color: white;
+}
+
+.extraComponents span,
+.extraComponents p {
+  color: #c1c3c7;
+}
+
+.jobTitle {
+  font-size: 0.6em;
+  margin-left: 8px;
+  font-weight: 400;
+}
+
+.profileBrief {
+  font-size: 1.25em;
+  margin-top: 15px;
+  width: 80%;
+}

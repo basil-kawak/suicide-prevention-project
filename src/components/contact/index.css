@@ -1,0 +1,91 @@
+.contactHeader img {
+  width: 100%;
+}
+
+h1 {
+  font-family: Noto Sans, sans-serif;
+}
+
+p {
+  font-family: Roboto, Sans-serif;
+}
+
+.contactCardContainer {
+  margin: 162px auto 81px auto;
+  display: flex;
+  width: 80%;
+  height: 578px;
+  box-shadow: 0px 4px 42px rgba(9, 81, 155, 0.22);
+}
+
+.followSide {
+  width: 50%;
+  height: 100%;
+  background-image: url(./images/contact-us-form.png);
+  background-size: cover;
+}
+
+.followUs {
+  text-transform: uppercase;
+  width: fit-content;
+  margin: 50% auto;
+  text-align: center;
+  color: white;
+}
+
+.followUs a {
+  margin: 10px !important;
+}
+
+.followUs a i {
+  margin: -1rem !important;
+}
+
+.formSide {
+  width: 40%;
+  margin: 5%;
+}
+
+.formSide h3 {
+  text-transform: uppercase;
+}
+
+.formSide input {
+  border: none;
+  border-bottom: 1px solid #888;
+  margin-bottom: 10px;
+}
+
+.formSide textarea {
+  margin-top: 2rem;
+  height: 10rem !important;
+  background-color: #f8f8f8;
+}
+
+.formSide button {
+  background: none;
+  border: none;
+}
+
+.redStar {
+  color: red;
+}
+
+.infoSection {
+  margin: 0 73px 9%;
+}
+
+.infoSection a {
+  padding: 0 0 10px 0 !important;
+  font-size: 27px;
+  font-weight: 600;
+  text-decoration-line: underline;
+  color: #1860aa;
+}
+
+.infoSection p {
+  font-size: 24px;
+  line-height: 29px;
+  text-align: justify;
+  color: #3f3f3f;
+}

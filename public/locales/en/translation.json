@@ -1,0 +1,370 @@
+{
+  "homepage": {
+    "header": {
+      "title": "Are you okay?",
+      "text": ["We are here to help", "and support you."]
+    }
+  },
+  "footer": {
+    "header": "SUBSCRIBE TO STAY UP TO DATE",
+    "placeholder": "Your email address",
+    "submit": "SUBMIT",
+    "address": ["43 Foundry Avenue, Basaksehir,", "Istotc, Istanbul, Turkey."],
+    "copyright": "© 2020 Suljak Suicide Prevention Organization",
+    "follow": "Follow Us",
+    "home": "Home",
+    "contact": "Contact Us",
+    "about": "About",
+    "assess": "Assessment",
+    "donate": "Donation",
+    "blogs": "Blog",
+    "login": "Login"
+  },
+  "navbar": {
+    "contact": "Contact Us",
+    "about": "About",
+    "assess": "Assessment",
+    "donate": "Donate",
+    "blogs": "Blogs",
+    "home": "Home"
+  },
+  "contact": {
+    "closeButton": "Done",
+    "alertThanks": "Thank You",
+    "contactUs": {
+      "message": ["Follow Us", "on social media"],
+      "form": {
+        "title": "Contact Us",
+        "nameField": "Name",
+        "surnameField": "Surname",
+        "emailField": "Email",
+        "requiredMessage": "indicates required fields",
+        "callForReachingOut": "Write to us",
+        "privacyMessage": "Your privacy is protected",
+        "submitButton": "Submit"
+      }
+    },
+    "info": {
+      "contactTitle": "CONTACTS:",
+      "address": "43 Foundry Avenue, Basaksehir, istotc, Istanbul, Turkey",
+      "businessHoursTitle": "BUSINESS HOURS:",
+      "hotlineText": "Our support hotline is available 24 hours a day: 11401",
+      "workingHours": [
+        "Monday-Friday: 5pm to 9pm",
+        "Saturday: 10am to 2pm",
+        "Sunday: Closed"
+      ]
+    },
+    "alertMessage": "You have submitted succesfully."
+  },
+  "donation": {
+    "secondaryHeader": "We can all help prevent suicide",
+    "header": "Make A Difference, Be A Part Of Our Community",
+    "introParagraph": [
+      "Live Support provides 24/7, free and confidential support for people in distress, prevention and crisis resources for you or your loved ones, and best practices for professionals. And we are constantly expanding our work because it is literally a matter of life or death for countless people.",
+      "You can help keep us growing as a free, non-profit website that doesn’t run ads, we rely on support from our readers. If you believe in Suljak’s mission, please consider donating. "
+    ],
+    "donateParagraph": [
+      "How to donate",
+      " Suicide and mental health conditions affect millions. Together, we can bring these issues out of the Darkness and create awareness about mental health. Suljak provides the opportunity for also companies to take an active role in suicide prevention. please send us your email. Your generosity helps us strengthen our growing infrastructure, support Lifeline callers, and change the conversation around suicide prevention."
+    ],
+    "helpParagraph": [
+      "How can you help us?",
+      "Close to 800,000 people die due to suicide every year, which is one person every 40 seconds. Suicide is a global phenomenon and occurs throughout the lifespan. Effective and evidence-based interventions can be implemented at population, sub-population and individual levels to prevent suicide and suicide attempts. There are indications that for each adult who died by suicide there may have been more than 20 others attempting suicide. Suicide occurs throughout the lifespan and is the second leading cause of death among 15-29 year olds globally. Suicide is a global phenomenon. Suicide accounted for 1.4% of all deaths worldwide, making it the 18th leading cause of death in 2016. To help change this, we need your support.",
+      "In much of the world, suicide is stigmatized and condemned for religious or cultural reasons. In some countries, suicidal behavior is a criminal offence punishable by law. Suicide is therefore often a secretive act surrounded by taboo, and may be unrecognized, misclassified or deliberately hidden in official records of death.[5] — World Health Organization (2002) To change this, you can also do something."
+    ],
+    "mailingParagraph": [
+      "Due to the situation around COVID-19, we are requesting you provide email addresses for all donation communications including notification letters, if possible.",
+      "mailto:donation@suljak.com"
+    ],
+    "endingParagraph": [
+      "Since the foundation of Suljak, we have raise more than blabla $ for suicide prevention. Every dollar you donate, goes directly to support our programs and services for survivors. Suljak help thousands of survivors and we depend on the generosity of supporters like you!",
+      "Approximately 11 people iight services. A donation to the Canada Suicide Prevention Service allows us to connect individuals in distress and individuals with suicidal thoughts with local Crisis Centres to receive immediate support."
+    ],
+    "tableContent": {
+      "greySection": {
+        "love": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.",
+        "gift": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis. ",
+        "tick": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis. ",
+        "earth": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis."
+      },
+      "statistics": [
+        "years",
+        "dollars",
+        "donors",
+        "survivors",
+        "countries",
+        "employees"
+      ]
+    }
+  },
+  "welcome": {
+    "message": "Welcome to React"
+  },
+  "React": {
+    "1": "HEY GUUYS"
+  },
+  "whoAreWe": {
+    "header": "who are we?"
+  },
+  "aboutPart": {
+    "bigText": "We are",
+    "purpose": " an organization which has a main goal of bringing people happiness, helping them with their mental and other issues. We were found at 2012 by insert_name_here and insert_name_here. Since we are a non profit organization, our expenses are covered by our donators and maybe also you!",
+    "goals": " We are here for your empowerment, for you to have a better life.",
+    "noAdsPolicy": " We, as SULJAK, are providing a website which is not under the influence of any company. By this we mean, our website does not have any advertisements or any sponsored content."
+  },
+  "blogPosts": [
+    {
+      "title": "Let’s talk about our hard times, it will help!",
+      "excerpt": "Depression is debilitating. Some people understand it, some think it’s an attention call. For me, depression is like that pile of laundry that you don’t want to show in your Instagram pictures. I never want to show my pile of laundry to the world, I want my life to seem happy and put together, as if I folded and put away all my laundry right out of the dryer."
+    },
+    {
+      "title": "Why Talking to Myself Makes Sense",
+      "excerpt": "I’ve tried to stop talking to myself, but I haven’t had much luck. I’m referring to the silent internal conversation that accompanies almost every waking moment when my attention is left on its own. I’ve often wondered why the talking has to keep going. "
+    },
+    {
+      "title": "How To Cope With Social Anxiety",
+      "excerpt": "Learning about psychology plays an essential role in my personal growth. I’ve been interested in it ever since my teenage years, but started to dive deeper when I was 20 and my problems with social anxiety, general anxiety and depression started to go out of control."
+    },
+    {
+      "title": "Why Anger Can Be So Destructive In a Relationship",
+      "excerpt": "Dealing with anger, can make it or break a relationship. Because anger can be so destructive in a relationship, anger management is sometimes a good idea."
+    }
+  ],
+  "managerAssistant": {
+    "name": "Nasser Ahmed",
+    "title": "Manager Assistant"
+  },
+  "generalManager": {
+    "name": "Jawdat Yildiz",
+    "title": "General Manager"
+  },
+  "psychotherapist": {
+    "name": "Turgut Bamsi",
+    "title": "Psychotherapist"
+  },
+  "weCare": {
+    "heading": "WE CARE AND CONCERN ABOUT YOU",
+    "firstWord": "Lets",
+    "motivationalText": "try and keep things in perspective. Let's be",
+    "pinkText": "positive",
+    "supportiveText": ", help each other out and we will get through all of this. In this world there has never been a storm that lasted. This too, shall pass. Human Spirit is An Amazing thing, keep it pumped up with adequate ",
+    "pinkTextWord": "positivity",
+    "hopefulText": " and share positive energies. Replace thoughts of worry with thoughts of hope, faith and victory. Once you choose hope, anything is possible. Ending your life is not the answer, getting help is the answer. If you have thoughts of ending your life, or are a survivor, you will find help, hope, comfort, understanding, support, love, and extensive resources here. Our strength comes from our act to care with our hearts and the belief that every life matters. We care and concern about you. ",
+    "reachUsButton": "TALK TO US",
+    "assessmentButton": "If you are not sure, take the test"
+  },
+  "stories": {
+    "heading": "STORIES ABOUT HOPE",
+    "shareYourStory": "We understand that every struggle is different. Experience the stories of people like you, and how they overcame crisis to find hope and recovery or please let us hear your healing journey, share it with others, be a hope. You will never know to whom you will be the light for. ",
+    "quote": "Some days you will be the light for others and some days you will need some light from them. As long as there is light, there is hope and there is a way.",
+    "quoteOwner": " <Jennifer Gayle> ",
+    "readMore": "read more >>",
+    "imageAlt": "image about hope"
+  },
+  "assessmentHomepage": {
+    "heading": "Psychological Assessment",
+    "assessmentDetails": "For helping to determine whether you or someone you know has symptoms commonly associated with suicide or mental disorder, please fill out the following questionnaire truthfully. The results will only be helpful if you answer in an honest and complete manner.",
+    "assessmentButton": "Start Here",
+    "imageAlt": "an image about assessment"
+  },
+  "questions": [
+    {
+      "title": "How do you sleep?",
+      "multiple": [
+        "I sleep less than 7-8 hours a night and I don't nap during the day.",
+        "I sleep no longer than 7-8 hours a night and I don't nap during the day",
+        "I sleep no longer than 12 hours in a 24-hour period including naps",
+        "I sleep longer than 12 hours in a 24-hour period including naps"
+      ]
+    },
+    {
+      "title": "How long does it usually take you to fall asleep?",
+      "multiple": [
+        "I never take longer than 30 minutes",
+        "I take at least 30 minutes, less than half of the time",
+        "I take at least 30 minutes, more than half of the time",
+        "I take more than 60 minutes, more than half of the time"
+      ]
+    },
+    {
+      "title": "How has your appetite been?",
+      "multiple": [
+        "There is no change in my usual appetite",
+        "I occasionally eat more or less than usual",
+        "I eat much more or much less than usual",
+        "I rarely eat within a 24-hour period or I feel the need to overeat at every meal"
+      ]
+    },
+    {
+      "title": "How is your ability to concentrate and make decisions?",
+      "multiple": [
+        "There is no change in my ability to concentrate or make decisions",
+        "I occasionally feel indecisive or find my attention wandering",
+        "I struggle to focus my attention or make decisions most of the time",
+        "I cannot concentrate well enough to read and/or I can't even make minor decisions"
+      ]
+    },
+    {
+      "title": "How do you view yourself?",
+      "multiple": [
+        "I see myself as equally worthwhile and deserving as other people",
+        "I am more self-blaming than usual",
+        "I largely believe that I cause problems for others",
+        "I think almost constantly about major and minor defects in myself"
+      ]
+    },
+    {
+      "title": "Your death and/or suicide. Do you think of them?",
+      "multiple": [
+        "I do not",
+        "I feel that life is empty",
+        "I think of suicide or my death several times a week for several minutes",
+        "I have made specific plans for suicide or I have actually attempted to take my life"
+      ]
+    },
+    {
+      "title": "When doing your favourite hobbies and activities, do you enjoy them as much as you used to?",
+      "multiple": [
+        "I enjoy them as much as I usually do",
+        "I try to enjoy them, but I don't as much as I used to",
+        "I enjoy them, if I'm drunk",
+        "I don't enjoy them at all"
+      ]
+    },
+    {
+      "title": "Do you enjoy the company of others as much as usual?",
+      "multiple": [
+        "I enjoy socialising as much as I usually do",
+        "I notice that I am less interested in socialising with other people",
+        "I find I have interest in being around only a select few people",
+        "I have virtually no interest in being around people"
+      ]
+    },
+    {
+      "title": "What do you think about sex?",
+      "multiple": [
+        "I enjoy it as much as I usually do",
+        "I enjoy it on occasion",
+        "I only do it when I'm in the mood, which is like once or twice a year",
+        "I am basically celibate"
+      ]
+    },
+    {
+      "title": "How easily are you angered?",
+      "multiple": [
+        "Not easily, I am able to control my temper",
+        "Some things make me angry, but my temper is generally under control",
+        "I don't always show my anger, but if I do - watch out",
+        "I fly off the handle easily"
+      ]
+    },
+    {
+      "title": "When angry, do you ever say things you regret?",
+      "multiple": [
+        "No, I don't say things I later regret when angry",
+        "On occasion, I say things I regret when angry, but I usually apologise immediately after",
+        "Yes, I often blurt out things I later regret",
+        "Yes, in fact, I get so angry I rarely remember what I've said"
+      ]
+    },
+    {
+      "title": "How often do you feel worried, anxious or stressed out?",
+      "multiple": [
+        "Not at all",
+        "1 or 2 times per week",
+        "3 or 4 times per week",
+        "Nearly every day"
+      ]
+    },
+    {
+      "title": "How much do you drink?",
+      "multiple": [
+        "I don't drink or have fewer than 1 or 2 drinks per night",
+        "3-4 drinks per night",
+        "5-6 drinks per night",
+        "6 or more drinks per night"
+      ]
+    }
+  ],
+  "assessExplanation": [
+    "This test is not a diagnosis, it simply helps you to understand the mental state that you are in. If you are feeling bad, just reach us out! We are here for you and believe me, this is not a lie and you will see when you talk to us.",
+    "If you are not logged in, please kindly enter your email before submitting your test."
+  ],
+  "assessment": {
+    "title": "Psychological Assessment",
+    "closeButton": "Done",
+    "results": "Results",
+    "answerMissing": "You should answer everything to see your results.",
+    "submitSuccess": "Succesfully completed your test!",
+    "contactButton": "Contact Us",
+    "verySevere": [
+      "Would you like to talk to us?",
+      "It seems like you are in need of talking, not very well. You have a high level of depression which can be considered critical. We think you should reach out to someone you trust, you love. If there is no one like that, we can be them. Just know that you are a valuable human being. You are not alone",
+      "Very Severe"
+    ],
+    "severe": [
+      "Would you like to talk to us?",
+      "You have a decent level of depression, it might be affecting your life in a bad way and we don't want that. Reach us out and we will help. Let's solve all the problems together. You are not alone.",
+      "Severe"
+    ],
+    "moderate": [
+      "Would you like to talk to us?",
+      "It seems like you are not really in need of talking. Your depression is acceptable but still if you want to get better still we are here to talk.",
+      "Moderate"
+    ],
+    "mild": [
+      "You are in a good condition.",
+      "Your situation is acceptable, but if you wanna talk to someone about anything, contact us!",
+      "Mild"
+    ],
+    "light": [
+      "You are in a good mood.",
+      "You are not depressed or it does not affect you. But still, if you feel alone, wanna share something with someone, we are here for you.",
+      "Light"
+    ]
+  },
+  "lang": {
+    "en": "English",
+    "tr": "Turkish",
+    "ar": "Arabic"
+  },
+  "signIn": {
+    "login": "Login",
+    "loginOr": " or login using",
+    "noAccount": " Don't have an account?",
+    "signUp": "Sign Up",
+    "help": "need help?",
+    "welcome": ["Welcome", "back!"]
+  },
+  "signInForm": {
+    "resetPassword": "Reset Password",
+    "enterEmail": "Enter your email to send you a password reset email",
+    "cancel": "Cancel",
+    "resetButton": "Reset Password",
+    "resetPopup": "Resetting your password",
+    "resetEmailSent": "A reset password email has been sent successfully, you can check your mailbox to set a new password",
+    "success": "Done.",
+    "formEmail": "Email",
+    "formPassword": "Password",
+    "forgotPassword": "Forgot Your Password?",
+    "loginButton": "Login"
+  },
+  "signUp": {
+    "signUp": "Sign Up",
+    "signUpOr": " Or sign up using",
+    "alreadyMember": "Already a member?",
+    "login": "Login",
+    "help": "Need help?",
+    "welcome": ["Welcome", " to our ", "website."]
+  },
+  "signUpForm": {
+    "fName": "First Name",
+    "lName": "Last Name",
+    "email": "Email",
+    "password": "Password",
+    "rePassword": "Enter your password again",
+    "passNotMatch": "Password doesn't match",
+    "signUpButton": "Submit"
+  }
+}

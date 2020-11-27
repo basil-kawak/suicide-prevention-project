@@ -1,0 +1,18 @@
+.editingTitle {
+  color: #1860aa;
+}
+
+.emailMatch,
+.passwordMatch,
+.passwordValid,
+.errMsgContainer {
+  font-weight: 500;
+  color: rgb(216, 67, 67);
+  margin-bottom: 15px;
+}
+
+.resetPassword b {
+  color: rgb(70, 70, 70);
+  cursor: pointer;
+  margin-left: 5px;
+}

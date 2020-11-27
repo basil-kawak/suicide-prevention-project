@@ -1,0 +1,79 @@
+.assessmentHeader {
+  width: 100%;
+  margin-bottom: 7rem;
+  z-index: -1;
+}
+
+.questionAnswers {
+  padding-left: 40px !important;
+  font-size: 20px !important;
+  color: #161b50;
+}
+
+.questionAnswers input {
+  margin-top: 13px;
+}
+
+.questionTitle {
+  color: rgb(0, 72, 145);
+  font-weight: bold;
+}
+
+.assesmentTitle {
+  color: rgb(6, 90, 175);
+  padding: 11px 4px;
+  font-weight: bold;
+}
+
+.questionAnswers label,
+.questionAnswers input {
+  vertical-align: middle;
+}
+
+.questionContainer {
+  padding: 35px 5px;
+  padding-bottom: 40px;
+}
+
+.testSubmitButton {
+  background-color: #121968 !important;
+  border: #161b50 !important;
+  margin: 0 auto;
+}
+
+.testContactButton {
+  background-color: #1b96cf !important;
+  border: #161b50 !important;
+  margin: 0 auto;
+}
+
+.resultCategory {
+  color: gray;
+}
+
+.testDoneButton {
+  background-color: #1b96cf !important;
+  border: #161b50 !important;
+  margin: 0px;
+}
+
+.testSubmitButtonRow {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.assesContainer {
+  padding: 40px 40px 120px 40px;
+}
+
+.submitAlert {
+  margin: 15px;
+  transition: display ease-in-out 0.5s;
+}
+
+.assesExplanation {
+  margin: 20px;
+  margin-left: -5px;
+  font-size: 25px;
+}

@@ -1,0 +1,25 @@
+.link {
+  font-size: larger;
+  font-weight: 500;
+  padding: 0;
+}
+
+.authIcon {
+  width: 50px;
+  cursor: pointer;
+  border: 2px solid #bcbcbc;
+  padding: 2px;
+  border-radius: 30%;
+  margin-right: 30px;
+}
+
+.emailValid,
+.errMsgContainer {
+  font-weight: 500;
+  color: rgb(216, 67, 67);
+  margin-bottom: 15px;
+}
+
+.forgetPassword {
+  cursor: pointer;
+}

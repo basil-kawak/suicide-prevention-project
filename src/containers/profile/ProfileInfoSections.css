@@ -1,0 +1,14 @@
+.infoSignImg {
+  width: 20px;
+}
+
+.infoContainer p {
+  font-size: 0.8em;
+  margin-bottom: 20px;
+  color: rgb(102, 102, 102);
+}
+
+.displayName {
+  font-size: 1.4em;
+  background-color: rgba(202, 225, 255, 0.219);
+}

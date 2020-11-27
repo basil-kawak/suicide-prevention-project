@@ -1,0 +1,51 @@
+.blogsPageHeader {
+  width: 100%;
+  margin-bottom: 6rem;
+  z-index: -1;
+}
+
+.blogPhotoContainer img {
+  width: 80%;
+  text-align: center;
+  margin: 20px 0;
+}
+
+.blogPhotoContainer {
+  text-align: center;
+}
+
+.blogDisplayContainer {
+  display: flex;
+}
+
+.blogPhotoTextContent {
+  display: flex;
+  justify-content: center;
+  margin: 20px 0;
+  flex-direction: column;
+}
+
+.blogPhotoTextContent h4 {
+  font-size: 37px;
+  margin-bottom: 20px;
+  color: #15173a !important;
+}
+
+.blogPhotoTextContent p {
+  font-size: 16px;
+  color: #1c1f64 !important;
+}
+
+.blogPhotoTextContent a {
+  text-decoration: none !important;
+}
+
+.blogPhotoTextContent a:hover {
+  text-decoration: none !important;
+}
+
+.blogContentDisplay {
+  display: inline-block;
+  overflow: hidden;
+  max-height: 170px;
+}

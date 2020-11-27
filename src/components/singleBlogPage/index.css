@@ -1,0 +1,227 @@
+.blogHeader {
+  display: flex;
+  z-index: 1;
+  width: 1050px;
+  height: 580px;
+  margin: -8.75rem auto 1.8rem;
+}
+
+.authorImage {
+  display: flex;
+  width: 211px;
+  height: 211px;
+  z-index: 2;
+  margin: -10% auto 2%;
+}
+
+.singleBlogTopImages p {
+  display: flex;
+  justify-content: center;
+  font-family: Roboto, Sans-serif;
+  margin: 0 auto;
+  font-weight: bold;
+  font-size: 20px;
+  color: #55595d;
+  width: 70%;
+  padding-bottom: 2%;
+}
+
+.article {
+  text-align: justify;
+  margin: 0 auto 8rem;
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 2rem;
+  color: #55595d;
+}
+
+.article h1 {
+  font-weight: bolder;
+  text-transform: uppercase;
+  color: #555658;
+  text-align: center;
+  margin: 2rem 0;
+  font-size: 300%;
+  font-family: Noto Sans, sans-serif;
+}
+
+.publishingDate {
+  font-family: Roboto, Sans-serif;
+  color: #afaeae;
+  margin-bottom: 2rem;
+}
+
+.articleWrappedImage {
+  float: right;
+  width: 50%;
+  margin: 1.5rem 0 0.6rem 1.8rem;
+}
+
+.clearFloat {
+  clear: left;
+  overflow: hidden;
+}
+
+.commentSection {
+  margin: 0 auto 2rem;
+  line-height: 2rem;
+}
+
+.visitor {
+  display: flex;
+  align-items: flex-start;
+  width: 100%;
+  margin-bottom: 1.5rem;
+}
+
+.commentsTitle {
+  border-bottom: 1px solid rgb(184, 183, 183);
+}
+
+.displayedComment,
+.replyFields {
+  display: inline-block;
+}
+
+.displayedComment {
+  line-height: 20px;
+  margin-left: 1rem;
+  margin-top: 12px;
+}
+
+.visitorName {
+  font-weight: 500;
+  line-height: 80%;
+}
+
+.visitorComment {
+  display: block;
+  font-weight: 400;
+}
+
+.visitorImage {
+  display: inline;
+  margin-top: -50px;
+}
+
+.replyFields {
+  margin: 6.6rem 0;
+}
+
+.replyFields h5 {
+  font-family: Roboto, Sans-serif;
+  color: #fe305e;
+  font-weight: 500;
+}
+
+.infoFields {
+  margin-bottom: 1rem;
+  width: 100%;
+}
+
+.commentButton {
+  background-color: #db3157 !important;
+  border: none !important;
+  margin: 1rem 0;
+}
+
+.recommendedPost {
+  display: flex;
+  flex-flow: row;
+  margin: 0 auto;
+}
+
+.recommendedPost h4 {
+  font-family: Roboto, Sans-serif;
+  font-weight: 500;
+  color: #55595d;
+  margin-bottom: 5rem;
+}
+
+.postInfo {
+  display: flex;
+}
+
+.postInfo p {
+  font-family: Roboto, Sans-serif;
+  margin-top: 1rem;
+  color: #afaeae;
+}
+
+.postInfo .recommendedPostAuthorName {
+  color: #fe305e;
+}
+
+@media only screen and (max-width: 800px) {
+  .singleBlogTopImages p {
+    font-size: 16px;
+  }
+
+  .article {
+    font-size: 1rem;
+  }
+
+  .article h1 {
+    font-size: 250%;
+  }
+
+  .articleWrappedImage {
+    float: right;
+    width: 60%;
+    margin: 1.5rem 0 0.6rem 1.8rem;
+  }
+
+  .replyFields {
+    margin: 5rem 0;
+  }
+}
+
+@media only screen and (max-width: 550px) {
+  .singleBlogTopImages p {
+    font-size: 15px;
+  }
+
+  .article {
+    margin: 0 auto 6rem;
+  }
+
+  .article h1 {
+    font-size: 200%;
+  }
+
+  .articleWrappedImage {
+    float: right;
+    width: 100%;
+    margin: 1rem 0 1rem 0;
+  }
+
+  .recommendedPost {
+    margin: 0 auto;
+    padding: 0 3vw;
+  }
+}
+
+.commentedPerson {
+  color: #054f99;
+}
+
+.commentDate {
+  color: #55595d;
+  font-size: 0.65em;
+}
+
+.displayedComment {
+  margin-top: 30px;
+}
+
+.addingCommentSection {
+  margin-top: -30px;
+  margin-bottom: 30px;
+}
+
+.commentDeleteBtn {
+  width: 55px;
+  height: 25px;
+  padding: 0 !important;
+  font-size: 13px !important;
+}

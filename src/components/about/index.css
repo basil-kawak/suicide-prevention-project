@@ -1,0 +1,60 @@
+.aboutPageHeader {
+  width: 100%;
+  margin-bottom: 5rem;
+  z-index: -1;
+}
+
+.whoAreWe {
+  color: #161b50;
+  font-weight: bold;
+  font-size: 4rem;
+  margin-bottom: 40px;
+  text-transform: uppercase;
+}
+
+.aboutParagraphs {
+  font-size: 1.35rem;
+  margin-bottom: 109px;
+}
+
+.aboutParagraphs p {
+  margin-bottom: 35px;
+}
+
+.staffPic {
+  width: 17.5vw;
+  height: 17.5vw;
+  border-radius: 100%;
+}
+
+.staffPhotoContainer {
+  text-align: center;
+  margin: 0 auto;
+  padding: 10px;
+  padding-bottom: 20px;
+}
+
+@media screen and (max-width: 768px) {
+  .staffPic {
+    max-width: 100%;
+    width: 70.5vw;
+    height: 70.5vw;
+    height: auto;
+    border-radius: 5%;
+    display: block;
+    align-items: center;
+  }
+
+  .staffNameSpan,
+  .staffTitleSpan {
+    font-size: 35px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .staffPhotoContainer {
+    margin: 0 auto;
+    padding-top: 5%;
+    padding-bottom: 10%;
+  }
+}

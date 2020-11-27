@@ -1,0 +1,289 @@
+@import url("//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css");
+.footer {
+  padding: 5rem 0;
+  background: #014992;
+  color: white;
+  margin-top: 9rem;
+}
+.footer a {
+  color: #fff;
+  transition-duration: 0.2s;
+  padding: 0;
+}
+.footer a:hover {
+  color: #fa944b;
+  text-decoration: none;
+}
+.footer h3 {
+  text-align: center;
+}
+.footer h4 {
+  margin-top: 3rem;
+  letter-spacing: 1px;
+}
+.footer form {
+  margin: 0 auto 4rem auto;
+  width: 50%;
+}
+.formControl {
+  border-radius: 0 !important;
+}
+form button {
+  background: #6bb2ff !important;
+  border-radius: 0 !important;
+}
+.iconFacebook:hover,
+.iconLinkedin:hover,
+.iconTwitter:hover {
+  transform: rotate(360deg);
+  transition: all 0.4s;
+}
+.iconFacebook:hover {
+  background-color: #3b5998;
+}
+.iconLinkedin:hover {
+  background-color: #007bb7;
+}
+.iconTwitter:hover {
+  background-color: #1da1f2;
+}
+.iconFacebook:hover i,
+.iconLinkedin:hover i,
+.iconTwitter:hover i {
+  color: #fff;
+}
+.socialCircle a {
+  background-color: #f9f9f9;
+  margin: 0 2% 0 2%;
+  border-radius: 50%;
+  text-align: center;
+  padding-top: 4px;
+  width: 30px;
+  height: 30px;
+  font-size: 15px;
+}
+.socialCircle i {
+  color: #595959;
+}
+@media only screen and (max-width: 768px) {
+  .footer h3 {
+    font-size: 100%;
+  }
+  .footerNavs {
+    margin-top: 4rem;
+  }
+}
+@media only screen and (max-width: 500px) {
+  .footer form {
+    margin: 0 auto 4rem auto;
+    width: 80%;
+  }
+}
+.navBar {
+  display: flex !important;
+  height: 4.4vw;
+  width: 100%;
+  background: linear-gradient(
+    90deg,
+    rgba(0, 72, 145, 1) 0%,
+    rgba(38, 120, 204, 1) 100%
+  ) !important;
+  box-shadow: 0 0px 5px rgba(151, 153, 182, 0.034),
+    0 5px 13px rgba(127, 124, 161, 0.048),
+    0 12.5px 10px rgba(101, 92, 156, 0.06), 0 8px 12px rgba(59, 49, 92, 0.072),
+    0 30px 22px rgba(40, 17, 126, 0.086), 0 100px 80px rgba(92, 78, 129, 0.12);
+}
+.navBar .navLink {
+  color: #fff !important;
+  font-family: "Myriad Pro", sans-serif;
+  font-weight: 400;
+  font-size: 1.25vw;
+  letter-spacing: 2px;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+.navBar .navLink:hover {
+  color: #b0faff !important;
+}
+.navItemsMargins {
+  margin-right: 1.3vw;
+}
+.navbarItems {
+  margin: 0 -1%;
+}
+.suljakLogo {
+  width: 7.8vw;
+  z-index: 2 !important;
+  visibility: visible;
+  margin: 0.3vw 2.3vw;
+}
+.hamburgerIcon {
+  width: 7.8vw;
+  visibility: hidden;
+}
+.suljakhamburgerLogo {
+  display: none;
+}
+.loginIcon {
+  margin: 15% 15% 10% 15%;
+  width: 2.5vw;
+  height: 2.2vw;
+}
+.languageImage {
+  width: 3.9vw;
+  margin: auto 2% auto 1%;
+  padding: 9%;
+}
+@media only screen and (max-width: 1000px) {
+  .navBar {
+    display: flex !important;
+    height: 5vw;
+  }
+  .navBar .navLink {
+    font-size: 1.4vw;
+  }
+  .loginIcon {
+    margin: -0.6vw -4vw;
+    width: 2.5vw;
+    height: 2.2vw;
+  }
+  .languageImage {
+    width: 3.9vw;
+    margin: auto 6% auto 6%;
+    padding: 9%;
+  }
+  .navbarItems {
+    margin: 0;
+  }
+}
+@media only screen and (max-width: 600px) {
+  .navBar {
+    display: flex !important;
+    height: 6vw;
+  }
+  .suljakLogo {
+    visibility: hidden;
+  }
+  .hamburgerIcon {
+    width: 3vw;
+    margin: -1vw -9vw;
+    visibility: visible;
+    z-index: 15;
+    position: fixed;
+  }
+  .navBar .navLink {
+    visibility: visible;
+  }
+  .navbar-collapse {
+    margin-bottom: 20% !important;
+  }
+  .navBar .navLink {
+    font-size: 15px;
+    float: left;
+    margin: 15px;
+  }
+  .navbarItems {
+    flex-flow: column !important;
+    position: fixed !important;
+    padding: 50px 2% 1%;
+    background-color: #2778cc;
+    top: 0;
+    margin: -17px !important;
+    z-index: 2;
+    height: 115%;
+    transition: all 0.4s ease-in-out;
+    flex-direction: column-reverse !important;
+    justify-content: space-around !important;
+  }
+  .nav .navbarItems {
+    margin: -17px;
+  }
+  .navItemsMargins {
+    margin: 0 5px 0 20px;
+    width: 200px;
+    border-bottom: 1px solid #fbccd5;
+  }
+  .navLink {
+    margin: 20px;
+  }
+  .loginIcon {
+    position: relative;
+    left: 68vw;
+    margin: 5% 0 20% -43%;
+    width: 3vw;
+    height: 2.5vw;
+  }
+  .languageImage {
+    position: relative;
+    left: 67vw;
+    width: 5.4vw;
+    margin: 0 5% 8% -100%;
+    padding: 8%;
+  }
+  .navbarItems {
+    margin: 0;
+  }
+  .movingSideMenu {
+    left: -100%;
+  }
+}
+.langDropdown button {
+  background-color: transparent !important;
+  border-color: transparent !important;
+}
+.dropdown-toggle::after {
+  display: none !important;
+}
+.dropdown-menu.show {
+  right: 20px !important;
+  left: auto;
+  position: absolute;
+  width: 100px;
+  margin: -15px !important;
+  top: 100px;
+  background-color: white;
+  z-index: 9999;
+  padding: 20px 0;
+}
+.langDropdown.dropdown,
+.navbar {
+  position: static !important;
+}
+button.langDropdown {
+  background-color: transparent !important;
+  border-color: transparent !important;
+}
+button.langDropdown:hover {
+  background-color: transparent !important;
+  border-color: transparent !important;
+}
+.dynamicHeader {
+  padding-top: 1.5%;
+  width: 100%;
+  height: 345px;
+}
+.profilePhotoContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: relative;
+}
+.profileHeaderExtraComponents {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-left: 50px;
+}
+.profilePhotoBtn {
+  cursor: pointer;
+  width: 35px;
+  position: absolute;
+  bottom: 1%;
+  right: 5%;
+}
+.profilePhotoBtn > input {
+  display: none;
+}
+.profilePhotoBtn img {
+  cursor: pointer;
+}

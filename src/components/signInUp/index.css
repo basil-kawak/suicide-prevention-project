@@ -1,0 +1,106 @@
+.signinUpContainer {
+  margin-top: 100px !important;
+  box-shadow: 0px 30px rgba(39, 39, 39, 0.15) !important;
+}
+
+.leftSection {
+  padding: 6% !important;
+}
+
+.leftSection h2 {
+  text-transform: uppercase;
+}
+
+.leftSection form {
+  margin: 2rem 0 2rem -2rem;
+  font-family: Aktiv Grotesk Corp;
+  font-weight: 500;
+  font-size: 16px;
+  color: #565656;
+}
+
+.leftSection form input {
+  border: none !important;
+  border-bottom: 1px solid #888 !important;
+  margin-bottom: 10px !important;
+  height: 20px;
+}
+
+.forgetPassword {
+  color: #a7a7a7;
+  float: right;
+}
+
+.leftSection span {
+  color: #3671d1;
+  cursor: pointer;
+  margin-left: 1rem;
+}
+
+.leftSection form button {
+  margin-top: 4rem;
+  margin-left: 1rem;
+  padding: 0.1rem 2.5rem;
+  font-size: 20px;
+  border: none;
+  border-radius: 10px !important;
+  text-transform: uppercase;
+}
+
+.formSide button:hover {
+  color: blue !important;
+}
+
+.leftSection .form-label {
+  font-family: Aktiv Grotesk Corp;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 19px;
+  color: #565656;
+}
+
+.leftSection form input {
+  border: none !important;
+  border-bottom: 1px solid #888 !important;
+  margin-bottom: 10px !important;
+}
+
+.leftSection h5 {
+  padding-top: 12px;
+  font-family: Aktiv Grotesk Corp;
+  font-size: 18px;
+  color: #6e6e6e;
+}
+
+.authIcon {
+  width: 2rem;
+  margin: 8px;
+  cursor: pointer;
+}
+
+.leftSection h6 {
+  font-family: Aktiv Grotesk Corp;
+  font-weight: 500;
+  font-size: 20px;
+  color: #6e6e6e;
+  margin-top: 1rem;
+}
+
+.rightSection {
+  background-image: url(https://i.ibb.co/pPBGbgx/LLogin.png);
+  background-size: contain;
+  background-repeat: round;
+  padding-left: 2rem !important;
+  padding-top: 0.5rem;
+}
+
+.rightSection p {
+  color: #3671d1;
+  text-transform: uppercase;
+}
+
+.rightSection h1 {
+  color: #fff;
+  padding-top: 2.5rem;
+}

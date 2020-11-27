@@ -1,0 +1,16 @@
+.blogHeaderImage {
+  cursor: pointer;
+}
+
+.blogHeaderImage > input {
+  display: none;
+}
+
+.blogHeaderImage img {
+  cursor: pointer;
+  margin-left: -50px;
+}
+
+.paragraphWithImage {
+  margin-top: 31px;
+}

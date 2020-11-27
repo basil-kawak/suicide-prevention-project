@@ -1,0 +1,20 @@
+.profileInfoEditButton {
+  width: 30px;
+  cursor: pointer;
+  margin-left: 10px;
+}
+
+.userInfoTitle {
+  display: flex;
+  width: 185px;
+  margin-bottom: 20px;
+  border-bottom: 1px solid rgb(184, 184, 184);
+}
+
+.userInfoTitle:hover {
+  border-bottom: 1px solid black;
+}
+
+.opacityLow {
+  opacity: 0.2;
+}
