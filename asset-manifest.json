@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/suicide-prevention-project/static/css/main.ae53bda2.chunk.css",
+    "main.js": "/suicide-prevention-project/static/js/main.ae31664a.chunk.js",
+    "main.js.map": "/suicide-prevention-project/static/js/main.ae31664a.chunk.js.map",
+    "runtime-main.js": "/suicide-prevention-project/static/js/runtime-main.6b6ad843.js",
+    "runtime-main.js.map": "/suicide-prevention-project/static/js/runtime-main.6b6ad843.js.map",
+    "static/css/2.11829350.chunk.css": "/suicide-prevention-project/static/css/2.11829350.chunk.css",
+    "static/js/2.78f530d5.chunk.js": "/suicide-prevention-project/static/js/2.78f530d5.chunk.js",
+    "static/js/2.78f530d5.chunk.js.map": "/suicide-prevention-project/static/js/2.78f530d5.chunk.js.map",
+    "index.html": "/suicide-prevention-project/index.html",
+    "precache-manifest.db2c6d1ee5c65835bed680f0d2f98317.js": "/suicide-prevention-project/precache-manifest.db2c6d1ee5c65835bed680f0d2f98317.js",
+    "service-worker.js": "/suicide-prevention-project/service-worker.js",
+    "static/css/2.11829350.chunk.css.map": "/suicide-prevention-project/static/css/2.11829350.chunk.css.map",
+    "static/css/main.ae53bda2.chunk.css.map": "/suicide-prevention-project/static/css/main.ae53bda2.chunk.css.map",
+    "static/js/2.78f530d5.chunk.js.LICENSE.txt": "/suicide-prevention-project/static/js/2.78f530d5.chunk.js.LICENSE.txt",
+    "static/media/contact-page.png": "/suicide-prevention-project/static/media/contact-page.fc0317c1.png",
+    "static/media/index.css": "/suicide-prevention-project/static/media/contact-us-form.1b708b79.png",
+    "static/media/getFetch.cjs": "/suicide-prevention-project/static/media/getFetch.013f0b90.cjs",
+    "static/media/googleIcon.png": "/suicide-prevention-project/static/media/googleIcon.55d3560e.png",
+    "static/media/infoSign.png": "/suicide-prevention-project/static/media/infoSign.6416ac19.png",
+    "static/media/profileHeaderBackground.png": "/suicide-prevention-project/static/media/profileHeaderBackground.09e0c40f.png",
+    "static/media/staff0.png": "/suicide-prevention-project/static/media/staff0.df8b2097.png",
+    "static/media/staff1.png": "/suicide-prevention-project/static/media/staff1.85c0604a.png",
+    "static/media/staff2.png": "/suicide-prevention-project/static/media/staff2.9f29c504.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6b6ad843.js",
+    "static/css/2.11829350.chunk.css",
+    "static/js/2.78f530d5.chunk.js",
+    "static/css/main.ae53bda2.chunk.css",
+    "static/js/main.ae31664a.chunk.js"
+  ]
+}

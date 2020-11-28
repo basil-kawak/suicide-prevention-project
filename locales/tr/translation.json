@@ -1,0 +1,305 @@
+{
+  "homepage": {
+    "header": {
+      "title": "İyi Misin?",
+      "text": ["Senin için", "buradayız."]
+    }
+  },
+  "footer": {
+    "header": "GÜNCEL KALMAK İÇİN ABONE OLUN",
+    "placeholder": "E posta adresiniz",
+    "submit": "GÖNDER",
+    "address": [
+      "43 Foundry Caddesi, Basaksehir,",
+      "Istotc, Istanbul, Türkiye."
+    ],
+    "copyright": "© 2020 Suljak İntihar Önleme ve Öngörme Topluluğu",
+    "follow": "Bizi Takip Edin",
+    "home": "Ana Sayfa",
+    "contact": "İletişim",
+    "about": "Hakkımızda",
+    "assess": "Test",
+    "donate": "Bağış",
+    "blogs": "Blog",
+    "login": "Giriş Yap"
+  },
+  "navbar": {
+    "contact": "İletişim",
+    "about": "Hakkımızda",
+    "assess": "Test",
+    "donate": "Bağış",
+    "blogs": "Blog",
+    "home": "Ana Sayfa"
+  },
+  "contact": {
+    "closeButton": "Tamam",
+    "alertThanks": "Teşekkür Ederiz",
+    "contactUs": {
+      "message": ["Sosyal Medyada", "Bizi Takip Edin"],
+      "form": {
+        "title": "İletişim",
+        "nameField": "İsim",
+        "surnameField": "Soyisim",
+        "emailField": "E-posta",
+        "requiredMessage": "doldurulması zorunlu yerler",
+        "callForReachingOut": "Bize yazın",
+        "privacyMessage": "Gizliliğiniz güvende!",
+        "submitButton": "Gönder"
+      }
+    },
+    "info": {
+      "contactTitle": "İLETİŞİM:",
+      "address": "43 Foundry Caddesi, Basaksehir, istotc, Istanbul, Türkiye",
+      "businessHoursTitle": "İŞ SAATLERİ:",
+      "hotlineText": "Destek hattımız her gün her saat açık: 11401",
+      "workingHours": [
+        "Pazartesi-Cuma: 17.00-21.00",
+        "Cumartesi: 10.00-14.00",
+        "Pazar: Kapalı"
+      ]
+    },
+    "alertMessage": "Mesajınız gönderildi."
+  },
+  "donation": {
+    "secondaryHeader": "İntiharı hepimiz önleyebiliriz",
+    "header": "Bir fark yaratın, topluluğumuzun bir parçası olun",
+    "introParagraph": [
+      "Canlı Destek, sıkıntı içindeki insanlara 7/24 ücretsiz ve gizli destek, siz ve sevdikleriniz için intiharı önleme ve krizlere müdahale etme ile ilgili kaynaklar, ve profesyoneller için en iyi uygulamalar sunar.",
+      "Büyümemize yardımcı olabilirsiniz. Ücretsiz, sponsor destegi almayan ve kar amacı gütmeyen bir web sitesi olarak, siz okuyucularımızin desteklerize bağlıyız. Suljakın misyonuna inanıyorsanız, lutfen bağışta bulunmayı düşününüz."
+    ],
+    "donateParagraph": [
+      "Nasıl bağışta bulunabilirsiniz?",
+      " Ruh Sağlığı durumları ve intihar milyonları etkilemekte. Birlikte, bu konuları karanlıktan aydınlığa çıkarabiliriz ve ruh sağlığı ile ilgili farkındalık yaratabiliriz.Suljak, şirketlere de intiharı önlemede aktif bir rol alma şansı sunmaktadır. Lütfen bize eposta adresinizi gönderin. Sizin cömertliğiniz, büyüyen altyapımızı güçlendirmemize, canlı destek hattını arayanlara destek olmamıza, ve intiharı önleme ile ilgili konuşmaları, başka bir boyuta taşımamıza yardımcı olmaktadır."
+    ],
+    "helpParagraph": [
+      "Nasıl yardımcı olabilirsiniz? ",
+      "Her yıl sekiz yüz bine yakın insan, yani her 40 saniyede bir kişi, intihardan dolayı yaşamını kaybetmektedir. İntihar, küresel bir olaydır ve hayatın akışında meydana gelebilmektedir. İntihar ve intihar girişimini önlemek için etkili ve kanıta dayalı önlemler tüm nüfusa, alt popülasyonlara ve bireysel seviyelere indirilebilir. Intihardan dolayı hayatını kaybeden her bir yetişkinin yanı sıra, 20'den fazlasının da teşebbüs ediyor olabileceğine dair göstergeler bulunmaktadır.",
+      "Dünyanın büyük bir kısmında intihar, dini ve kültürel sebeplerden dolayı küçük düşürülmekte ve kınanmaktadır. Bazı ülkelerde, intihara eğilimli davranışlar, yasalar tarafından ceza gerektiren suç olarak görülmektedir. Bu nedenle intihar tabulastırılmış gizli bir eylem olmakta ve farkedilmeyip yanlış değerlendirilmekte veya resmi ölü kayıtlarından kasıtlı olarak gizlenmektedir. -Dünya Sağlık Örgütü (2002). Bunu değiştirmek için, sen de birseyler yapabilirsin."
+    ],
+    "mailingParagraph": [
+      "Covid-19 ile ilgili süreçten dolayı, bağış ile ilgili iletişime geçmek ve duyurulardan haberdar olmak için, mümkünse bize e-posta adresinizi iletin.",
+      "mailto:donation@suljak.com"
+    ],
+    "endingParagraph": [
+      "Suljak, kuruluşundan bu yana intiharı önlemek için, blabla dolardan fazla bağıs toplamıstır. Bağışladığınız her bir dolar, doğrudan hayatta kalanlar için olan program ve hizmetlerimize destek için kullanılmaktadır. Suljak, binlerce mücadeleciye destek olmakta ve biz de bunun için sizin gibi destekçilere ihtiyac duymaktayız!",
+      "Günde yaklaşık 11 kişi hizmetlerimize ulaşmaktadır. Kanada İntiharı önleme hizmeti tehlike altında olan ve intihara eğilim gösteren bireyleri en kısa surede destek alabimleri için Yerel Kriz Merkezi'mize ulaştırmaktadır."
+    ],
+    "tableContent": {
+      "greySection": {
+        "love": "Suljak, kriz altındakilere, bu mücadeleyi kazananlara, ve yakınlarını kaybetmiş olan bireylere destek sağlayarak, beş yıldır faaliyetlerini sürdürmektedir.",
+        "gift": "Şu ana kadar, siz cömert okuyucularımız sayesinde, blabla dolardan fazla bağış toplanmıştır. Size, kar amacı gütmeyen bir organizasyon olduğumuzu ve ihtiyacı olanlara ışık olabilmeye devam edebilmek için, yüzde yüz sizin bağışlarınıza bağlı olduğumuzu hatırlatmak isteriz. ",
+        "tick": "20 binden fazla kişi bizlere ulaşmış, canlı destek hizmetimizden faydalanmış, bağışta bukunmuş ve faaliyetlerimizde gönüllü olmuştur. Hepinize teşekkür etmek isteriz. Ister bağış ister gönüllülükle olsun, sizlerin destegiyle hergün biraz daha büyümeye devam edeceğiz. ",
+        "earth": "beş binden fazla gönüllü ile, 28 ülkede faaliyet göstermekteyiz. Gönüllü olarak bir etkinliğimizde yer almak, veya bulunduğunuz bölgede bağış kampanyası düzenlemek isterseniz, lutfen email adresinizi göndererek bize ulaşın."
+      },
+      "statistics": [
+        "Yıl",
+        "Dolar",
+        "Donör",
+        "Hayatta Kalanlar",
+        "Ülke",
+        "Çalışan"
+      ]
+    }
+  },
+  "welcome": {
+    "message": "React'e Hoş Geldin"
+  },
+  "aboutPart": {
+    "bigText": "SULJAK,",
+    "purpose": " insanlara mutluluk getirmeyi temel hedef haline getirmiş bir organizasyon. Bizler, bireylere mental ya da gündelik hayatlarında yaşadıkları sorunlar hakkında konuşabilecek biri olarak buradayız. 2012'de kurucularımız tarafından kurulduk. Kar amacı gütmeyen bir kuruluş olduğumuz için, giderlerimizin tamamı bağışçılarımız tarafından karşılanıyor. Belki sen de onlardan birisin!",
+    "goals": " Bizler, daha güçlü biri olman için, daha iyi bir hayata sahip olabilmen için buradayız.",
+    "noAdsPolicy": " Websitemiz hiçbir şirket için hizmet etmemekte. Bunu şu yüzden belirtiyoruz, sitemizde reklam veya sponsorlu içerik bulunmamakta. Böylece sizlere güzel bir içerik oluşturuyoruz."
+  },
+  "managerAssistant": {
+    "name": "Nasser Ahmed",
+    "title": "Müdür Yardımcısı"
+  },
+  "generalManager": {
+    "name": "Jawdat Yildiz",
+    "title": "Müdür"
+  },
+  "psychotherapist": {
+    "name": "Turgut Bamsi",
+    "title": "Psikoterapist"
+  },
+  "React": {
+    "1": "React"
+  },
+  "en": {
+    "1": "İngilizce"
+  },
+  "tr": {
+    "1": "Türkçe"
+  },
+  "ar": {
+    "1": "Arapça"
+  },
+  "questions": [
+    {
+      "title": "Uykun nasıl?",
+      "multiple": [
+        "7 saatten az uyuyorum ve gün içerisinde pek kestirmem.",
+        "7-8 saat uyurum ve gün içerisinde pek kestirmem.",
+        "Kestirmelerimle birlikte en fazla 12 saat uyurum.",
+        "12 saatten daha fazla uyuyorum."
+      ]
+    },
+    {
+      "title": "Uykuya dalman ne kadar vakit alır?",
+      "multiple": [
+        "Otuz dakikadan fazla sürmez.",
+        "En az otuz dakika.",
+        "En az bir saat.",
+        "Bir saatten daha fazla."
+      ]
+    },
+    {
+      "title": "İştahın nasıl, bugünlerde iyi beslenir misin?",
+      "multiple": [
+        "İştahımda bir değişiklik yok.",
+        "Arada normalden az ya da çok yerim.",
+        "Eskiye göre çok fazla ya da çok az yiyiyorum.",
+        "Yirmi dört saat içerisinde pek yemek yemiyorum ya da her öğünümde aşırı yiyiyorum."
+      ]
+    },
+    {
+      "title": "Konsantrasyon ve karar verme yetilerin nasıl?",
+      "multiple": [
+        "Konsantrasyon ve karar verme yetilerimde bir değişiklik yok.",
+        "Arada kararsız olabiliyorum veya dikkatim dağılıyor.",
+        "Odaklanmakta veya karar vermekte zorlanıyorum",
+        "Bir şeyleri okuyabilecek kadar bile odaklanamıyorum, ufak kararlar bile alamıyorum."
+      ]
+    },
+    {
+      "title": "Kendini nasıl görüyorsun?",
+      "multiple": [
+        "Yaşamayı, hayatı diğer insanlar kadar hak ettiğimi düşünüyorum.",
+        "Eskisinden daha çok kendimi suçlarım.",
+        "Başkaları için sadece sorun oluşturduğumu düşünüyorum.",
+        "Sürekli kendimle ilgili küçük ya da büyük kusurları düşünüyorum."
+      ]
+    },
+    {
+      "title": "Ölümün veya intiharın, bunlar hakkında düşünüyor musun?",
+      "multiple": [
+        "Hayır.",
+        "Hayatın boş olduğunu düşünüyorum.",
+        "Hafta içinde ölmek hakkında birkaç kez düşündüğüm oluyor",
+        "Ölümüm için planlar yaptım. Hatta birkaç kez intihara teşebbüste bulundum."
+      ]
+    },
+    {
+      "title": "Sevdiğin şeyleri yaparken eskisi kadar mutlu oluyor musun?",
+      "multiple": [
+        "Her zamanki gibi, onları yapmaktan hoşlanıyorum.",
+        "Hoşlanmaya çalışıyorum ama beni eskisi kadar mutlu etmiyorlar.",
+        "Eğer sarhoşsam mutlu oluyorum.",
+        "Hayır, eskisi gibi değil."
+      ]
+    },
+    {
+      "title": "Birileriyle birlikte vakit geçirmekten hoşlanıyor musun?",
+      "multiple": [
+        "Her zamanki gibi, hoşlanıyorum.",
+        "İnsanlarla etkileşime girmekten eskisi kadar hoşlanmıyorum.",
+        "Çok az kişi ile  vakit geçirmekten hoşlanıyorum.",
+        "İnsanlarla vakit geçirmekten hoşlanmıyorum."
+      ]
+    },
+    {
+      "title": "Birliktelik, romantik ilişkiler hakkında ne düşünüyorsun?",
+      "multiple": [
+        "Görüştüğüm, hoşlandığım biri var.",
+        "Arada birileri ile görüşüyorum",
+        "Sene içerisinde bir ya da iki kez birliktelik yaşadım.",
+        "Düşünmüyorum."
+      ]
+    },
+    {
+      "title": "Ne kadar çabuk sinirlenirsin?",
+      "multiple": [
+        "Zor sinirlenirim.",
+        "Bazı şeyler beni sinirlendiriyor ama genelde kendimi kontrol edebiliyorum.",
+        "Sinirimi her zaman göstermem, ama gösterirsem, dikkat edin (:",
+        "Çok çabuk, herkese sinirlenirim."
+      ]
+    },
+    {
+      "title": "Sinirliyken pişman olduğun şeyler söyler misin?",
+      "multiple": [
+        "Hayır.",
+        "Bazen ama eğer pişman olursam sonrasında hemen özür dilerim.",
+        "Evet, arada pişman olacağım şeyler söyleyebiliyorum.",
+        "Evet, hatta o kadar sinirleniyorum ki neler söylediğimi hatırlamıyorum bile."
+      ]
+    },
+    {
+      "title": "Kendini ne sıklıkla stresli ve/veya kaygılı hissediyorsun?",
+      "multiple": [
+        "Pek hissetmem.",
+        "Haftada bir ya da iki kez.",
+        "Haftada üç ya da dört kez.",
+        "Neredeyse her gün."
+      ]
+    },
+    {
+      "title": "Ne kadar alkol tüketirsin?",
+      "multiple": [
+        "Pek fazla alkol tüketmem.",
+        "Gecede üç-dört içki.",
+        "Gecede beş-altı içki.",
+        "Gecede altıdan fazla içki."
+      ]
+    }
+  ],
+  "assessExplanation": [
+    "Bu test bir tanı değeri taşımaz, basitçe bulunduğunuz mental durumun değerlendirmesini yapmanızda yardımcı olan bir araçtır. Eğer iyi hissetmiyorsanız, lütfen bize ulaşın! Sizin için buradayız.",
+    "Giriş yapmadıysanız, testinizi bitirmeden önce e postanızı girdiğinize emin olun lütfen."
+  ],
+  "assessment": {
+    "title": "Psikolojik Değerlendirme Testi"
+  },
+  "lang": {
+    "en": "İngilizce",
+    "tr": "Türkçe",
+    "ar": "Arapça"
+  },
+  "signIn": {
+    "login": "Giriş Yap",
+    "loginOr": " Veya bunları kullanarak giriş yap",
+    "noAccount": "Hesabın yok mu?",
+    "signUp": "Kayıt Ol",
+    "help": "Yardıma ihtiyacın var mı?",
+    "welcome": ["Tekrar", "hoş geldin!"]
+  },
+  "signInForm": {
+    "resetPassword": "Parolanızı Sıfırlayın",
+    "enterEmail": "Parola sıfırlama epostası için eposta adresinizi girin",
+    "cancel": "Vazgeç",
+    "resetButton": "Parolayı Sıfırla",
+    "resetPopup": "Parolanız Sıfırlanıyor",
+    "resetEmailSent": "Parola sıfırlama epostası başarı ile gönderildi, yenı bir parola oluşturmak için eposta kutunuza gidebilirsiniz.",
+    "success": "Başarılı.",
+    "formEmail": "Eposta",
+    "formPassword": "Parola",
+    "forgotPassword": "Parolanızı mı unuttunuz?",
+    "loginButton": "Giriş Yap"
+  },
+  "signUp": {
+    "signUp": "Kayıt ol",
+    "signUpOr": "Bunları kullanarak kayıt ol",
+    "alreadyMember": "Hala üye misin?",
+    "login": "Giriş Yap",
+    "help": "Yardıma ihtiyacın var mı?",
+    "welcome": ["Websitemize", "hoş", "geldin!"]
+  },
+  "signUpForm": {
+    "fName": "Ad",
+    "lName": "Soyad",
+    "email": "E-posta",
+    "password": "Parola",
+    "rePassword": "Lütfen parolanı tekrar gir.",
+    "passNotMatch": "Parolalar eşleşmiyor."
+  }
+}
