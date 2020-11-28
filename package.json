@@ -2,6 +2,8 @@
   "name": "istanbul-capstone-sdp",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://basil-kawak.github.io/suicide-prevention-project/"
+,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
@@ -10,6 +12,7 @@
     "emailjs": "^3.3.0",
     "emailjs-com": "^2.6.3",
     "firebase": "^7.17.1",
+    "gh-pages": "^3.1.0",
     "i18next": "^19.6.3",
     "i18next-browser-languagedetector": "^5.0.1",
     "i18next-http-backend": "^1.0.17",
@@ -29,6 +32,8 @@
     "styled-components": "^5.1.1"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
